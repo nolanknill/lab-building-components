@@ -2,7 +2,7 @@
 
 In this lab you will be starting with the BrainStation template that you are familiar with. The starter code has already turned the `body` of the page into a large component called `Main` for you.
 
-To get started, please download the starter files [here](https://api.brainstation.io/content/link/1Wkfb4W45FpgRevfnvm7wM3yI61-1Vs-3).
+To get started, please download the starter files from Slack.
 
 ## Instructions
 
